@@ -1,0 +1,16 @@
+Total number of users: 3
+Total number of tasks: 2
+
+User: admin
+Total number of tasks assigned: 1
+Percentage of total tasks assigned: 50.00%
+Percentage of tasks completed: 0.00%
+Percentage of tasks incomplete: 100.00%
+Percentage of tasks overdue: 100.00%
+
+User: chala
+Total number of tasks assigned: 1
+Percentage of total tasks assigned: 50.00%
+Percentage of tasks completed: 0.00%
+Percentage of tasks incomplete: 100.00%
+Percentage of tasks overdue: 100.00%
